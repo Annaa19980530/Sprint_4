@@ -1,4 +1,4 @@
-package ru.praktikum.selenium.page_object;
+package ru.praktikum.selenium.pageObject;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
